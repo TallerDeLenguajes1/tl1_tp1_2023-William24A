@@ -1,2 +1,2 @@
 #ignorar el archivo ignorar.txt
-ignorar.txt
+ignorado.txt
