@@ -1,0 +1,2 @@
+#ignorar el archivo ignorar.txt
+ignorar.txt
