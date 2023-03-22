@@ -1,2 +1,5 @@
-#ignorar el archivo ignorar.txt
+#ignorar el archivo ignorado.txt
 ignorado.txt
+
+#ignorar el archivo .exe cuando se compila 
+.exe
